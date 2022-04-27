@@ -10,7 +10,7 @@ Address: appname.herokuapp.com
 
 Port: 443
 
-Path: keep this empty
+Path: /websocket
 
 Network: ws
 
